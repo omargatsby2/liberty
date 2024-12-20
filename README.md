@@ -1,4 +1,4 @@
 # still in progress...-
 # npm install
 # run docker
-# nvm list storyk
+# nvm list storyk1
