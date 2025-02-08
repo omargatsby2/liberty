@@ -1,4 +1,4 @@
-# still in progress...-
+# in progress...-
 # npm install
 # run docker
 # nvm list 
